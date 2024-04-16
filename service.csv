@@ -1,0 +1,6 @@
+service_id	service_type	expiry
+1	mobile	d1
+2	fttp	d2
+3	mobile	d3
+4	fttp	d1
+5	mobile	d2
