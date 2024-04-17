@@ -1,6 +1,9 @@
 account_id,username,household_id,service_id
 1,aaa,1,1
+1,aaa,1,2
 2,bbb,1,2
+2,bbb,1,4
+2,bbb,1,5
 3,ccc,1,3
 4,ddd,2,4
 5,eee,2,5
